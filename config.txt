@@ -1,0 +1,27 @@
+{
+ "Version": "1.0",
+ "ReleaseNotes": "",
+ "contactSupport": "",
+ "config_url": "",
+ "account_api": "",
+ "cloud_get_api": "",
+ "cloud_post_api": "",
+ "AppConfPass": "",
+ "SERVERS FREE": [
+  {
+   "Name": "SSH/WS",
+   "serverType": 1,
+   "TunnelType": 0,
+   "FLAG": "cl",
+   "Category": 0,
+   "ServerIP": "66.154.104.189",
+   "Payload": "OPTIONS \/HIRVIPHB🇸🇻🕶️ HTTP\/1.1[lf]Host: pruebat.org[lf]Connection: close[crlf]X-Forwarded-For: pruebat.org[lf]Content-Length: 503504502\\n-Control: 🕶️VPS\\nConnection: sv[lf][lf]",
+   "TcpPort": "8080",
+   "Server_exp_box": false,
+   "Server_exp": "0-spliter-2:14 p. m.",
+   "server_web_renew": "www.vpnjantit.com"
+  }
+ ],
+ "SERVERS VIP": [],
+ "Ovpn_Cert": ""
+}
